@@ -1,5 +1,5 @@
 # QBCore GPS Waypoint Script
-This script allows players to set a waypoint on the map by using the /gps <code> command. Locations are predefined in config.lua, where each location has a unique vector3 coordinate and a custom color. If a player enters /gps without any code, the currently set waypoint will be removed.
+This script allows players to set a waypoint on the map by using the /gps command. Locations are predefined in config.lua, where each location has a unique vector3 coordinate and a custom color. If a player enters /gps without any code, the currently set waypoint will be removed.
 
 🔹 Features:
 ✅ Set Waypoints: Players can use /gps <code> to mark a location on the map.
